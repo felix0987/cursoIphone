@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>454434074346-q8vadvd2tdol8gfd7mjkce9vncr4tujh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.454434074346-q8vadvd2tdol8gfd7mjkce9vncr4tujh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgMgsidp1bjIMdbAJM7YpcuC3OMN-Esw4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>454434074346</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dante123.epIphone</string>
+	<key>PROJECT_ID</key>
+	<string>cursoiphone-c4ea9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cursoiphone-c4ea9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:454434074346:ios:cc2527b0894ec8e7237193</string>
+</dict>
+</plist>
